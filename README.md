@@ -37,43 +37,42 @@ I'm a motivated developer passionate about creating modern, responsive web appli
 
 Currently seeking internship or job opportunities in software development (Front-end / JavaScript track), where I can contribute to exciting projects and continue developing professionally.
 
-**My journey:**
-- 🎓 Completed intensive JavaScript/Front-end and React.js courses at RS School
-- 💼 Looking for a team where I can bring value and take on challenges
-- 🌱 Continuously learning and expanding my skill set
-- 🤝 Experienced in team collaboration and code reviews
+### 👩‍💻 Experience & Focus
+
+- 💼 Looking for a team where I can contribute to exciting projects and take on challenges
+- 🤝 Comfortable collaborating in teams, participating in code reviews, and using Git
+- 🧩 Strong problem-solving skills and ability to learn independently
+- 🌐 Confident working with English documentation and technical articles
+
 
 ## 💻 Tech Stack
 
-### Frontend Development
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
+  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
+  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
+  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="nextjs logo"  />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="nextjs logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
+  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  />
+  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=webstorm" height="40" alt="webstorm logo" />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Zustand-000000?style=for-the-badge&logo=react&logoColor=white" height="40" alt="zustand logo" />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/shadcn/ui-000000?style=for-the-badge&logo=react&logoColor=white" height="40" alt="shadcn/ui logo" />
 </div>
 
-### Tools & State Management
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Zustand-000000?style=for-the-badge&logo=react&logoColor=white" height="40" alt="zustand logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/shadcn/ui-000000?style=for-the-badge&logo=react&logoColor=white" height="40" alt="shadcn/ui logo"  />
-</div>
 
 ## 📊 GitHub Stats
 
