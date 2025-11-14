@@ -7,7 +7,7 @@
 ###
 
 <h1 align="center">Hello there! 👋 I'm Victoria</h1>
-<h3 align="center">A passionate Front-end Developer</h3>
+<h3 align="center">Front-end Developer</h3>
 
 ###
 
@@ -35,7 +35,7 @@
 
 I'm a motivated developer passionate about creating modern, responsive web applications. I enjoy working with JavaScript and React, exploring new tools and crafting interfaces that feel intuitive and pleasant to use.
 
-Currently seeking a software development internship (Front-end / JavaScript track) where I can contribute to real projects, collaborate with a team, and continue growing as a professional.
+Currently seeking internship or job opportunities in software development (Front-end / JavaScript track), where I can contribute to exciting projects and continue developing professionally.
 
 **My journey:**
 - 🎓 Completed intensive JavaScript/Front-end and React.js courses at RS School
@@ -107,7 +107,7 @@ I'm excited about opportunities to contribute to real-world projects and continu
     <img src="https://img.shields.io/badge/Email-victoria.ternovaya@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
   <a href="https://app.rs.school/cv/4743675d-041a-4c15-ba95-e6f590134790" target="_blank">
-    <img src="https://img.shields.io/badge/RS_School_Profile-CV-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="RS School CV">
+    <img src="https://img.shields.io/badge/RS_School-CV-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="RS School CV">
   </a>
 </p>
 
@@ -116,7 +116,3 @@ I'm excited about opportunities to contribute to real-world projects and continu
 <div align="center">
   <img id="snake-svg" src="./assets/contribution-dark.svg" alt="contribution snake" height="220" />
 </div>
-
-<p align="center">
-  <i>Open to internship opportunities and ready to take on new challenges!</i>
-</p>
