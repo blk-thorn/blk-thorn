@@ -7,7 +7,6 @@
 ###
 
 <h1 align="center">Hello there! 👋 I'm Victoria</h1>
-<h3 align="center">Front-end Developer</h3>
 
 ###
 
@@ -33,9 +32,9 @@
 
 ## 🚀 About Me
 
-I'm a motivated developer passionate about creating modern, responsive web applications. I enjoy working with JavaScript and React, exploring new tools and crafting interfaces that feel intuitive and pleasant to use.
+I'm a motivated Front-end developer passionate about designing thoughtful web applications with clean, modern code. I enjoy exploring new tools and crafting interfaces that feel intuitive and pleasant to use.
 
-Currently seeking internship or job opportunities in software development (Front-end / JavaScript track), where I can contribute to exciting projects and continue developing professionally.
+Currently looking for internships or jobs in software development (Front-end / JavaScript track), where I can contribute to exciting projects and grow professionally.
 
 ### 👩‍💻 Experience & Focus
 
@@ -83,12 +82,11 @@ Currently seeking internship or job opportunities in software development (Front
 ###
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=blk-thorn&locale=en&hide_title=false&layout=compact&card_width=320&theme=dark&hide_border=false&order=2" height="150" alt="languages graph" />
+    <img src="https://github-readme-stats.vercel.app/api?username=blk-thorn&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+ <img src="https://github-readme-stats.vercel.app/api/top-langs?username=blk-thorn&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </p>
 
-## 📫 Let's Connect!
-
-I'm excited about opportunities to contribute to real-world projects and continue my growth in frontend development. Feel free to reach out!
+## 📫 Feel free to reach out
 
 <p align="center">
   <a href="https://t.me/blk_thorn" target="_blank">
