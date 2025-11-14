@@ -78,13 +78,13 @@ Currently seeking a software development internship (Front-end / JavaScript trac
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=victoriaternovaya&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=blk-thorn&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
 ###
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=victoriaternovaya&locale=en&hide_title=false&layout=compact&card_width=320&theme=dark&hide_border=false&order=2" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=blk-thorn&locale=en&hide_title=false&layout=compact&card_width=320&theme=dark&hide_border=false&order=2" height="150" alt="languages graph" />
 </p>
 
 ## 🎯 What I Bring
@@ -113,9 +113,9 @@ I'm excited about opportunities to contribute to real-world projects and continu
 
 ---
 
-<p align="center">
-  <img src="https://github.com/victoriaternovaya/victoriaternovaya/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
+<div align="center">
+  <img id="snake-svg" src="./assets/contribution-dark.svg" alt="contribution snake" height="220" />
+</div>
 
 <p align="center">
   <i>Open to internship opportunities and ready to take on new challenges!</i>
