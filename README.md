@@ -86,14 +86,6 @@ Currently seeking internship or job opportunities in software development (Front
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=blk-thorn&locale=en&hide_title=false&layout=compact&card_width=320&theme=dark&hide_border=false&order=2" height="150" alt="languages graph" />
 </p>
 
-## 🎯 What I Bring
-
-- **Strong Foundation**: Completed comprehensive training in JavaScript, TypeScript, React, and modern frontend technologies
-- **Team Collaboration**: Experience working on team projects with code reviews and Git collaboration
-- **Problem-Solving**: Ready to complete technical challenges and learn independently when needed
-- **English Proficiency**: Comfortable working with English documentation and technical articles
-- **Growth Mindset**: Driven to continuously improve skills and become a better developer
-
 ## 📫 Let's Connect!
 
 I'm excited about opportunities to contribute to real-world projects and continue my growth in frontend development. Feel free to reach out!
