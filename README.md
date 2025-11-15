@@ -87,7 +87,7 @@ Currently looking for internships or jobs in software development (Front-end / J
 ---
 
 <div align="center">
-  <img id="snake-svg" src="./assets/contribution-dark.svg" alt="contribution snake" height="220" />
+  <img id="snake-svg" src="./assets/contribution-dark.svg" alt="contribution snake" height="150" />
 </div>
 
 ###
