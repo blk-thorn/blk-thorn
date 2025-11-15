@@ -34,7 +34,7 @@ Currently looking for internships or jobs in software development (Front-end / J
 
 ### 👩‍💻 Experience & Focus
 
-- 💼 Interested in joining a team — whether a startup or an established company — where I can apply my skills and take on new challenges
+- 🌱 Driven to explore front-end trends and experiment to expand my skill set
 - 🤝 Comfortable collaborating and participating in code reviews
 - 🧩 Strong problem-solving skills and ability to learn independently
 - 🌐 Confident working with English documentation and technical articles
@@ -55,7 +55,17 @@ Currently looking for internships or jobs in software development (Front-end / J
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo" />
   <img width="12" />
+  <img src="https://hexmos.com/freedevtools/svg_icons/zustand/zustand-original.svg" height="40" alt="zustand logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=webpack" height="40" alt="webpack logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vite" height="40" alt="vite logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vitest" height="40" alt="vitest logo" />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo" />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/shadcnui" height="30" alt="shadcn/ui logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo" />
   <img width="12" />
@@ -63,10 +73,8 @@ Currently looking for internships or jobs in software development (Front-end / J
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=webstorm" height="40" alt="webstorm logo" />
   <img width="12" />
-  <img src="https://img.shields.io/badge/Zustand-000000?style=for-the-badge&logo=react&logoColor=white" height="40" alt="zustand logo" />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/shadcn/ui-000000?style=for-the-badge&logo=react&logoColor=white" height="40" alt="shadcn/ui logo" />
 </div>
+
 
 
 ## 📊 GitHub Stats
