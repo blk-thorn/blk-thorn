@@ -22,24 +22,20 @@
   </a>
 </div>
 
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=victoriaternovaya.victoriaternovaya&"  />
-</div>
+<h3 align="center">📫 Feel free to reach out</h3>
 
 ---
 
 ## 🚀 About Me
 
-I'm a motivated Front-end developer passionate about designing thoughtful web applications with clean, modern code. I enjoy exploring new tools and crafting interfaces that feel intuitive and pleasant to use.
+I'm a motivated Front-end developer passionate about designing thoughtful web applications with clean, modern code. I take real interest in exploring new tools and crafting interfaces that feel intuitive and pleasant to use.
 
 Currently looking for internships or jobs in software development (Front-end / JavaScript track), where I can contribute to exciting projects and grow professionally.
 
 ### 👩‍💻 Experience & Focus
 
-- 💼 Looking for a team where I can contribute to exciting projects and take on challenges
-- 🤝 Comfortable collaborating in teams, participating in code reviews, and using Git
+- 💼 Interested in joining a team — whether a startup or an established company — where I can apply my skills and take on new challenges
+- 🤝 Comfortable collaborating and participating in code reviews
 - 🧩 Strong problem-solving skills and ability to learn independently
 - 🌐 Confident working with English documentation and technical articles
 
@@ -86,22 +82,14 @@ Currently looking for internships or jobs in software development (Front-end / J
  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=blk-thorn&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </p>
 
-## 📫 Feel free to reach out
-
-<p align="center">
-  <a href="https://t.me/blk_thorn" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-@blk_thorn-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
-  </a>
-  <a href="mailto:victoria.ternovaya@gmail.com">
-    <img src="https://img.shields.io/badge/Email-victoria.ternovaya@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-  <a href="https://app.rs.school/cv/4743675d-041a-4c15-ba95-e6f590134790" target="_blank">
-    <img src="https://img.shields.io/badge/RS_School-CV-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="RS School CV">
-  </a>
-</p>
-
 ---
 
 <div align="center">
   <img id="snake-svg" src="./assets/contribution-dark.svg" alt="contribution snake" height="220" />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=victoriaternovaya.victoriaternovaya&"  />
 </div>
