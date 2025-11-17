@@ -20,11 +20,14 @@
   <a href="mailto:victoria.ternovaya@gmail.com">
     <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=EA4335&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
   </a>
+  <a href="https://discord.com/users/1087805692188041347" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=5865F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo" />
+  </a>
   <a href="https://www.linkedin.com/in/victoria-ternovaya-85122463" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=black" height="25" alt="linkedin logo" />
-
   </a>
 </div>
+
 
 ---
 
@@ -89,7 +92,7 @@ Currently looking for internships or jobs in software development (Front-end / J
 ---
 
 <div align="center">
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/blk-thorn/blk-thorn/output/github-contribution-grid-snake.svg" />
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/blk-thorn/blk-thorn/output/github-contribution-grid-snake-dark.svg" height="150"/>
 </div>
 
 ###
